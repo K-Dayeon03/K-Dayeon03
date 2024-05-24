@@ -1,78 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm dayeon Kang, a developer who codes dreams.</h1>
+<h3 align="center">Code for better growth than yesterday.</h3>
 
-<!--
-**K-Dayeon03/K-Dayeon03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=k-dayeon03&label=Profile%20views&color=0e75b6&style=flat" alt="k-dayeon03" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Frameworks..**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- Heading -->
-# test
-# Heading 1
+- 💬 Ask me about **React Native, Flutter, Android(Java, Koltlin), JavaScript...**
 
-## Heading 2
+- 📫 How to reach me **zns030@gmail.com**
 
-### Heading 3
+- ⚡ Fun fact **cute..funny**
 
-#### Heading 4
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-##### Heading 5
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-###### Heading 6
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-dayeon03&show_icons=true&locale=en&layout=compact" alt="k-dayeon03" /></p>
 
-Paragraph
-
-## <!-- Line -->
-
-<!-- Test attributes -->
-
-This is the **bold** text and this is the _italic_ text and let's do ~~strikethrough~~.
-
-<!-- Quote -->
-
-> Don't forget to code your dream.
-
-<!-- Bullet List -->
-
-이모티콘 :
-
-- 👍
-- 👍
-
-<!-- Numbered list -->
-
-Numbers:
-
-1. first
-2. second
-3. third
-
-<!-- link -->
-
-Click [here](https://www.youtube.com/watch?v=kMEb_BzyUqk)
-
-
-<!-- table -->
-
-| Header | Description |
-| :----: | :---------: |
-| Cell1  |    Cell1    |
-| Cell2  |    Cell2    |
-| Cell3  |    Cell3    |
-| Cell4  |    Cell4    |
-
-<!-- Code -->
-
-To print message in th console, use `console.log('your message')` and ..
-
-```javascript
-console.log("your message");
-```
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k-dayeon03&show_icons=true&locale=en" alt="k-dayeon03" /></p>
