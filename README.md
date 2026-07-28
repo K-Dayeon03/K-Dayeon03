@@ -153,11 +153,6 @@ public class DayeonKang {
 
 <br />
 <br />
-
-<a href="https://github.com/K-Dayeon03">
-  <img src="https://img.shields.io/badge/GitHub에서_더_보기-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0052CC,45:3B82F6,100:6DB33F&height=120&section=footer)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052CC,45:3B82F6,100:6DB33F&height=120&section=footer" />
+</p>
