@@ -18,7 +18,6 @@
 </div>
 
 ---
-
 ## About Me
 
 ```java
@@ -41,6 +40,9 @@ public class DayeonKang {
 - 팀 프로젝트를 통해 **협업, 소통, 테스트, 기록**의 중요성을 배웠습니다.
 - Java/Spring 기반 API 개발과 함께 React Native, TypeScript, 데이터 분석도 경험하고 있습니다.
 
+  <a href="https://k-dayeon03.github.io">
+    <img src="https://img.shields.io/badge/GitHub%20Pages-Link%20Tetris-4A90D9?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
 ---
 
 ## Tech Stack
